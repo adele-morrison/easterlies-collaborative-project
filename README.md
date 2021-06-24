@@ -13,12 +13,16 @@ To start contributing to the code, make your own branch directly in this reposit
 
 First hackathon:
 
-9:30am-12pm, Wednesday 7th July (convenor: Adele)
+  * 9:30am-12pm, Wednesday 7th July (convenor: Adele)
 
 Then fortnightly on Thursday mornings:
 
-9:00am-11:30am, Thursday 29th July (convenor: Adele)
+  * [Not sure if this one is too much, could skip?] 9:00am-11:30am, Thursday 15th July (convenor: Wilma)
 
-9:00am-11:30am, Thursday 12th August (convenor: Adele)
+  * 9:00am-11:30am, Thursday 29th July (convenor: Paul)
 
-9:00am-11:30am, Thursday 26th August (convenor: Adele)
+  * 9:00am-11:30am, Thursday 12th August (convenor: Julia)
+
+  * 9:00am-11:30am, Thursday 26th August (convenor: Matt)
+
+  * etc.
