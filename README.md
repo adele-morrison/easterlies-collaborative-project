@@ -11,13 +11,9 @@ To start contributing to the code, make your own branch directly in this reposit
 
 ## Hackathon schedule (in Canberra/Sydney time zone)
 
-First hackathon:
+Fortnightly on Thursday mornings:
 
-  * 9:30am-12pm, Wednesday 7th July (convenor: Adele)
-
-Then fortnightly on Thursday mornings:
-
-  * 9:00am-11:30am, Thursday 15th July (convenor: Wilma)  [Not sure if this one is too much, could skip if we're happy with a 3 week gap in here?] 
+  * 9:00am-11:30am, Thursday 15th July (convenor: Wilma)
 
   * 9:00am-11:30am, Thursday 29th July (convenor: Paul)
 
