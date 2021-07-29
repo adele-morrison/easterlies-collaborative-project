@@ -19,7 +19,7 @@ Fortnightly on Thursday mornings:
  
 ~~9:00am-11:30am, Thursday 15th July (convenor: Wilma)~~
 
-~~9:00am-11:30am, Thursday 29th July (convenor: Paul)~~
+  * ~~9:00am-11:30am, Thursday 29th July (convenor: Paul)~~
 
   * 9:00am-11:30am, Thursday 12th August (convenor: Julia)
 
