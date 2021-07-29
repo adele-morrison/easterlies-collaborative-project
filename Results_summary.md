@@ -1,4 +1,4 @@
-# A brief summary of results so far
+## A brief summary of results so far
 
 Changes here are described for the UP perturbation, and unless otherwise specified, changes are largely symmetric for the UP and DOWN perturbations.
 
