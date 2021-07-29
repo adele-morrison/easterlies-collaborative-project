@@ -15,9 +15,9 @@ As we figure out the main results and develop the storyline, we can add to the [
 
 Fortnightly on Thursday mornings:
 
-~~9:30am-12:00pm, Wednesday 7th July (convenor: Adele)~~
+  * ~~9:30am-12:00pm, Wednesday 7th July (convenor: Adele)~~
  
-~~9:00am-11:30am, Thursday 15th July (convenor: Wilma)~~
+  * ~~9:00am-11:30am, Thursday 15th July (convenor: Wilma)~~
 
   * ~~9:00am-11:30am, Thursday 29th July (convenor: Paul)~~
 
