@@ -18,9 +18,11 @@ Changes here are described for the UP perturbation, and unless otherwise specifi
   
   * The [ASC strengthens](https://github.com/adele157/easterlies-collaborative-project/issues/7#issuecomment-876146351).
   
-  * [Sea ice thickness/concentration generally decreases](https://github.com/adele157/easterlies-collaborative-project/issues/10#issuecomment-875248868) (except in the NE Weddell Sea and in the open ocean off the Amundsen). 
+  * [Sea ice thickness/concentration generally decreases](https://github.com/adele157/easterlies-collaborative-project/issues/10#issuecomment-875248868) (except in the NE Weddell Sea and in the open ocean off the Amundsen). Is this due to more northerly ice advection, or SST warming?
   
   * [Mixed layers deepen](https://github.com/adele157/easterlies-collaborative-project/issues/14#issuecomment-877979016) in response to more wind-driven mixing in summer and more shelf convection in winter.
+  
+  * A fast Ekman response is seen in the first year: [SSH increases over the shelf](https://github.com/adele157/easterlies-collaborative-project/issues/23#issuecomment-893299741), and [SST cools](https://github.com/adele157/easterlies-collaborative-project/issues/4#issuecomment-880263337). However these responses are quickly overwhelmed with changes in the opposite direction driven by the increasing DSW.
   
   * To do: Add notes on Ekman pumping, sections of shelf that cool at the bottom (e.g. Amundsen).
 
