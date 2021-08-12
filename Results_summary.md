@@ -8,12 +8,19 @@ To do: describe how we changed the winds and motivation for this.
 
 To do: What are the easterly trends in reanalysis (overview of Hazel et al. 2019 and Julia's analysis)? How do the CMIP6 models compare with reanalysis over the historical period (i.e. how much do we trust them) and what are the easterly projections in the future?
 
-Historical period (1958 - 2015) mean wind fields:
+**Historical period (1958 - 2015) mean wind fields:**
   * [JRA55-do has stronger winds than CMIP6 multimodel mean](https://github.com/adele157/easterlies-collaborative-project/issues/12#issuecomment-897213042), particularly the meridional winds 
 
-Historical period (1958 - 2015) wind trends:
+**Historical period (1958 - 2015) wind trends:**
  *  [Zonal wind trends](https://github.com/adele157/easterlies-collaborative-project/issues/12#issuecomment-897213042) in JRA55 show the southwards shift of the westerlies *and intensification of the easterlies in some coastal regions*. These regions are adjacent to DSW formation sites. CMIP6 multimodel mean only captures the westerly trends, none of the more localized regions of intensification, and neither do the individual models.
  *  [Meridional wind trends](https://github.com/adele157/easterlies-collaborative-project/issues/12#issuecomment-897213042) in JRA55-do show an increase of the off-shore winds in the western Weddell, Prydz Bay and Ross Seas. And a decrease of the off-shore winds in East Antarctica and East Ant. Peninsula. Of these, only the latter is present in CMIP6 multimodel mean. None of the individual models capture these trends either.
+
+**Projected changes (end of 22nd century):**
+
+[Projected changes in zonal and meridional winds](https://github.com/adele157/easterlies-collaborative-project/issues/12#issuecomment-897282904) show:
+
+  * The southward shift of the westerlies, affecting mostly the Antarctic Peninsula and East Antarctica.
+  * Decrease of the off-shore winds in some regions (western Ross Sea, eastern Antarctic Peninsula, Amundsen Bellinghausen Seas) and increase in others (eastern Ross Sea, a portion of the Weddell, and Prydz Bay)
 
 ## Simulation responses
 
