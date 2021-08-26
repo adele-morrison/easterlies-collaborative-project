@@ -2,7 +2,18 @@
 
 ## Forcing perturbation
 
-To do: describe how we changed the winds and motivation for this.
+**Main experiment: UP and DOWN**
+Increase (UP) and decrease (DOWN) the winds (both u and v components) near Antarctica by 10%. Only the winds south of the dividing line between the annual average easterly and westerly winds from the JRA55-9091 winds are perturbed. This is done by selecting a line following the minimum in the absolute value of the annual average wind speed. We add/subtract 10% of the rolling monthly mean u and v wind velocities to the original JRA55 u and v winds. By using the rolling monthly mean, we ensure that we're not amplifying the storm activity, and also minimising change to the seasonal cycle. For example, the easterlies in the control are strong in winter and weak in summer, so if we were to add/subtract a constant fraction of the annual wind speed (rather than monthly wind as we do here), we would inadvertently be overly strengthening the summer winds compared to the winter winds.
+
+We chose to perturb both the u and v components of the wind speed, because in many places the wind follows the topography of the Antarctic continent, so the meridional component of the wind is really just a deflection of the easterlies by Antarctic topography. Therefore we thought it seemed to make most sense to change both components. This means, however, that the experiment cannot be understood purely as an 'easterlies' experiment.
+
+**Addtitional experiment: UP, but no perturbed katabatics in DSW formation regions**
+We did a second experiment which is exaclty the same as the UP case from the main experiment, but we omit the wind increase in the four DSW formation regions (Ross Sea, Adelie Land, Prydz Bay, Weddell Sea). Instead, these regions are subject to the control winds. The experiment aims to test if the increase in DSW formation in the UP case is driven by the changed katabatics, i.e. is a local process.
+
+**Ideas for further experiments:** (Note that we prefer to make use of the existing experiments.)
+  * Reversal of the katabatics experiment, i.e. we only increase the winds in the DSW formation regions. We don't expect much of a change compared to the control run though.
+  * Changing only the 'along-slope' winds. Implementation might be challenging. Motivation for this experiment: this was the initial idea of the project, the current implementation in UP does also increase meridional winds.
+  * ...?
 
 ### Comparison with reanalysis trends/CMIP6
 
@@ -30,7 +41,7 @@ Changes here are described for the UP perturbation, and unless otherwise specifi
   
   * The increase in the lower cell overturning is associated with an increase in the upward heat flux from the abyss to the surface. This impacts temperature and salinity on the shelf as follows: [SST warms, SSS salinifies, bottom salinity increases in DSW formation regions, bottom temperature cools in DSW formation regions](https://github.com/adele157/easterlies-collaborative-project/issues/4#issuecomment-875259285), and the [shelf regions directly downstream of DSW formation sites warm at the bottom](https://github.com/adele157/easterlies-collaborative-project/issues/16#issuecomment-884591714) due to less along-shelf connectivity from cold upstream waters.
   
-  * The [ASC strengthens](https://github.com/adele157/easterlies-collaborative-project/issues/7#issuecomment-876146351).
+  * The [ASC strengthens at depth downstream of DSW formation sites](https://github.com/adele157/easterlies-collaborative-project/issues/7#issuecomment-876146351).
   
   * [Sea ice thickness/concentration generally decreases](https://github.com/adele157/easterlies-collaborative-project/issues/10#issuecomment-875248868) (except in the NE Weddell Sea and in the open ocean off the Amundsen). Is this due to more northerly ice advection, or SST warming?
   
@@ -40,4 +51,12 @@ Changes here are described for the UP perturbation, and unless otherwise specifi
   
   * To do: Add notes on Ekman pumping, sections of shelf that cool at the bottom (e.g. Amundsen).
 
+Why is DSW increasing? (Hypotheses)
 
+  * <del>Local katabatics: The difference in DSW formation between the normal UP experiment and the UP experiment without perturbed katabatics is minimal, which suggests that it is **not** the local change in the katabatics driving the increase in DSW formation. 
+
+  * Wind-driven Ekman upwelling: Winds drive [large-scale Ekman upwelling](https://github.com/adele157/easterlies-collaborative-project/issues/20) and the signal propagates down the isopycnals, i.e. different (warmer) water is upwelled as denser isoycnals outcrop on the continental shelf. Due to the larger heat availability more more DSW/sea ice can be formed. An idea to test this hypothesis is to look at the start of the model run befre the first DSW formation season to identify the rise of isopycnals.
+
+  * Increased sea ice advection offshore. Instead of a local advection of sea ice by the katabatics in the DSW formation regions, it's the [large-scale offshore advection of sea ice](https://github.com/adele157/easterlies-collaborative-project/issues/10) which creates more ice-free area and allowing for more DSW formation. Ideas to better understand this hypothesis is to look at sea ice transport across, e.g., the 1000-m isobath.
+
+  * Above mechanisms don't exclude each other.
