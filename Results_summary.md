@@ -10,30 +10,13 @@ We chose to perturb both the u and v components of the wind speed, because in ma
 
 **Addtitional experiment: UP, but no perturbed katabatics in DSW formation regions**
 
-We did a second experiment which is exaclty the same as the UP case from the main experiment, but we omit the wind increase in the four DSW formation regions (Ross Sea, Adelie Land, Prydz Bay, Weddell Sea). Instead, these regions are subject to the control winds. The experiment aims to test if the increase in DSW formation in the UP case is driven by the changed katabatics, i.e. is a local process.
+We did a second experiment which is exactly the same as the UP case from the main experiment, but we omit the wind increase in the four DSW formation regions (Ross Sea, Adelie Land, Prydz Bay, Weddell Sea). Instead, these regions are subject to the control winds. The experiment aims to test if the increase in DSW formation in the UP case is driven by the changed katabatics, i.e. is a local process.
 
 **Ideas for further experiments:** (Note that we prefer to make use of the existing experiments.)
   * Reversal of the katabatics experiment, i.e. we only increase the winds in the DSW formation regions. We don't expect much of a change compared to the control run though.
   * Changing only the 'along-slope' winds. Implementation might be challenging. Motivation for this experiment: this was the initial idea of the project, the current implementation in UP does also increase meridional winds.
+  * Applying the UP wind anomalies only outside the main DSW formation period (i.e. October to June only). This may show if the lower overturning cell increase is being driven by an increase in upwelling (i.e. "pulled" rather than "pushed" by a directly forced increase in DSW formation).
   * ...?
-
-### Comparison with reanalysis trends/CMIP6
-
-To do: What are the easterly trends in reanalysis (overview of Hazel et al. 2019 and Julia's analysis)? How do the CMIP6 models compare with reanalysis over the historical period (i.e. how much do we trust them) and what are the easterly projections in the future?
-
-**Historical period (1958 - 2015) mean wind fields:**
-  * [JRA55-do has stronger winds than CMIP6 multimodel mean](https://github.com/adele157/easterlies-collaborative-project/issues/12#issuecomment-897213042), particularly the meridional winds 
-
-**Historical period (1958 - 2015) wind trends:**
- *  [Zonal wind trends](https://github.com/adele157/easterlies-collaborative-project/issues/12#issuecomment-897213042) in JRA55 show the southwards shift of the westerlies *and intensification of the easterlies in some coastal regions*. These regions are adjacent to DSW formation sites. CMIP6 multimodel mean only captures the westerly trends, none of the more localized regions of intensification, and neither do the individual models.
- *  [Meridional wind trends](https://github.com/adele157/easterlies-collaborative-project/issues/12#issuecomment-897213042) in JRA55-do show an increase of the off-shore winds in the western Weddell, Prydz Bay and Ross Seas. And a decrease of the off-shore winds in East Antarctica and East Ant. Peninsula. Of these, only the latter is present in CMIP6 multimodel mean. None of the individual models capture these trends either.
-
-**Projected changes (end of 22nd century):**
-
-[Projected changes in zonal and meridional winds](https://github.com/adele157/easterlies-collaborative-project/issues/12#issuecomment-897282904) show:
-
-  * The southward shift of the westerlies, affecting mostly the Antarctic Peninsula and East Antarctica.
-  * Decrease of the off-shore winds in some regions (western Ross Sea, eastern Antarctic Peninsula, Amundsen Bellinghausen Seas) and increase in others (eastern Ross Sea, a portion of the Weddell, and Prydz Bay)
 
 ## Simulation responses
 
@@ -57,8 +40,24 @@ Why is DSW increasing? (Hypotheses)
 
   * <del>Local katabatics: The difference in DSW formation between the normal UP experiment and the UP experiment without perturbed katabatics is minimal, which suggests that it is **not** the local change in the katabatics driving the increase in DSW formation. 
 
-  * Wind-driven Ekman upwelling: Winds drive [large-scale Ekman upwelling](https://github.com/adele157/easterlies-collaborative-project/issues/20) and the signal propagates down the isopycnals, i.e. different (warmer) water is upwelled as denser isoycnals outcrop on the continental shelf. Due to the larger heat availability more more DSW/sea ice can be formed. An idea to test this hypothesis is to look at the start of the model run befre the first DSW formation season to identify the rise of isopycnals.
+  * Wind-driven upwelling: The easterly winds drive [large-scale upwelling via Ekman pumping](https://github.com/adele157/easterlies-collaborative-project/issues/20) over nearly all the Antarctic margins (apart from a narrow coastal downward Ekman pumping). Where CDW isopycnals outcrop in the upwelling region, more CDW will brought onto the shelf. Due to the larger heat availability more DSW and sea ice can be formed. An idea to test this hypothesis is to look at the first 6 months of the UP run befre the first DSW formation season to quantify the change in upwelling. This could also be tested by only applying the UP perturbation outside of the winter season, to see if enhanced upwelling throughout the rest of the year still drives enhanced DSW formation in winter (though this may be entangled with the sea ice mechanism below). This is the same mechanism found by [Stewart and Thompson 2012](https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2012GL053099) in an idealised setup.
 
   * Increased sea ice advection offshore: Instead of a local advection of sea ice by the katabatics in the DSW formation regions, it's the [large-scale offshore advection of sea ice](https://github.com/adele157/easterlies-collaborative-project/issues/10) which creates more ice-free area and allowing for more DSW formation. Ideas to better understand this hypothesis is to look at sea ice transport across, e.g., the 1000-m isobath.
+ 
+ ## Comparison with reanalysis trends/CMIP6
 
-  * Above mechanisms don't exclude each other.
+To do: What are the easterly trends in reanalysis (overview of Hazel et al. 2019 and Julia's analysis)? How do the CMIP6 models compare with reanalysis over the historical period (i.e. how much do we trust them) and what are the easterly projections in the future?
+
+**Historical period (1958 - 2015) mean wind fields:**
+  * [JRA55-do has stronger winds than CMIP6 multimodel mean](https://github.com/adele157/easterlies-collaborative-project/issues/12#issuecomment-897213042), particularly the meridional winds 
+
+**Historical period (1958 - 2015) wind trends:**
+ *  [Zonal wind trends](https://github.com/adele157/easterlies-collaborative-project/issues/12#issuecomment-897213042) in JRA55 show the southwards shift of the westerlies *and intensification of the easterlies in some coastal regions*. These regions are adjacent to DSW formation sites. CMIP6 multimodel mean only captures the westerly trends, none of the more localized regions of intensification, and neither do the individual models.
+ *  [Meridional wind trends](https://github.com/adele157/easterlies-collaborative-project/issues/12#issuecomment-897213042) in JRA55-do show an increase of the off-shore winds in the western Weddell, Prydz Bay and Ross Seas. And a decrease of the off-shore winds in East Antarctica and East Ant. Peninsula. Of these, only the latter is present in CMIP6 multimodel mean. None of the individual models capture these trends either.
+
+**Projected changes (end of 22nd century):**
+
+[Projected changes in zonal and meridional winds](https://github.com/adele157/easterlies-collaborative-project/issues/12#issuecomment-897282904) show:
+
+  * The southward shift of the westerlies, affecting mostly the Antarctic Peninsula and East Antarctica.
+  * Decrease of the off-shore winds in some regions (western Ross Sea, eastern Antarctic Peninsula, Amundsen Bellinghausen Seas) and increase in others (eastern Ross Sea, a portion of the Weddell, and Prydz Bay)
