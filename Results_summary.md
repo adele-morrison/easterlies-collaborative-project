@@ -3,11 +3,13 @@
 ## Forcing perturbation
 
 **Main experiment: UP and DOWN**
+
 Increase (UP) and decrease (DOWN) the winds (both u and v components) near Antarctica by 10%. Only the winds south of the dividing line between the annual average easterly and westerly winds from the JRA55-9091 winds are perturbed. This is done by selecting a line following the minimum in the absolute value of the annual average wind speed. We add/subtract 10% of the rolling monthly mean u and v wind velocities to the original JRA55 u and v winds. By using the rolling monthly mean, we ensure that we're not amplifying the storm activity, and also minimising change to the seasonal cycle. For example, the easterlies in the control are strong in winter and weak in summer, so if we were to add/subtract a constant fraction of the annual wind speed (rather than monthly wind as we do here), we would inadvertently be overly strengthening the summer winds compared to the winter winds.
 
 We chose to perturb both the u and v components of the wind speed, because in many places the wind follows the topography of the Antarctic continent, so the meridional component of the wind is really just a deflection of the easterlies by Antarctic topography. Therefore we thought it seemed to make most sense to change both components. This means, however, that the experiment cannot be understood purely as an 'easterlies' experiment.
 
 **Addtitional experiment: UP, but no perturbed katabatics in DSW formation regions**
+
 We did a second experiment which is exaclty the same as the UP case from the main experiment, but we omit the wind increase in the four DSW formation regions (Ross Sea, Adelie Land, Prydz Bay, Weddell Sea). Instead, these regions are subject to the control winds. The experiment aims to test if the increase in DSW formation in the UP case is driven by the changed katabatics, i.e. is a local process.
 
 **Ideas for further experiments:** (Note that we prefer to make use of the existing experiments.)
@@ -57,6 +59,6 @@ Why is DSW increasing? (Hypotheses)
 
   * Wind-driven Ekman upwelling: Winds drive [large-scale Ekman upwelling](https://github.com/adele157/easterlies-collaborative-project/issues/20) and the signal propagates down the isopycnals, i.e. different (warmer) water is upwelled as denser isoycnals outcrop on the continental shelf. Due to the larger heat availability more more DSW/sea ice can be formed. An idea to test this hypothesis is to look at the start of the model run befre the first DSW formation season to identify the rise of isopycnals.
 
-  * Increased sea ice advection offshore. Instead of a local advection of sea ice by the katabatics in the DSW formation regions, it's the [large-scale offshore advection of sea ice](https://github.com/adele157/easterlies-collaborative-project/issues/10) which creates more ice-free area and allowing for more DSW formation. Ideas to better understand this hypothesis is to look at sea ice transport across, e.g., the 1000-m isobath.
+  * Increased sea ice advection offshore: Instead of a local advection of sea ice by the katabatics in the DSW formation regions, it's the [large-scale offshore advection of sea ice](https://github.com/adele157/easterlies-collaborative-project/issues/10) which creates more ice-free area and allowing for more DSW formation. Ideas to better understand this hypothesis is to look at sea ice transport across, e.g., the 1000-m isobath.
 
   * Above mechanisms don't exclude each other.
