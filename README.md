@@ -23,7 +23,7 @@ Fortnightly on Thursday mornings:
 
   * ~~9:00am-11:30am, Thursday 12th August (convenor: Julia)~~
 
-  * 9:00am-11:30am, Thursday 26th August (convenor: Matt)
+  * <del>9:00am-11:30am, Thursday 26th August (convenor: Matt)
 
   * 9:00am-11:30am, Thursday 9th September (convenor: Andy)
   
