@@ -26,6 +26,7 @@ Fortnightly on Thursday mornings:
   * <del>9:00am-11:30am, Thursday 26th August (convenor: Matt)
 
   * 9:00am-11:30am, Thursday 9th September (convenor: Andy)
+ Discuss who wants to present this work at ICSHMO / Ocean Sciences.
   
   * 9:00am-11:30am, Thursday 23rd September (convenor: Steve)
   
