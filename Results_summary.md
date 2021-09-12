@@ -16,7 +16,7 @@ We did a second experiment which is exactly the same as the UP case from the mai
   * Reversal of the katabatics experiment, i.e. we only increase the winds in the DSW formation regions. We don't expect much of a change compared to the control run though.
   * Changing only the 'along-slope' winds. Implementation might be challenging. Motivation for this experiment: this was the initial idea of the project, the current implementation in UP does also increase meridional winds.
   * Applying the UP wind anomalies only outside the main DSW formation period (i.e. October to June only). This may show if the lower overturning cell increase is being driven by an increase in upwelling (i.e. "pulled" rather than "pushed" by a directly forced increase in DSW formation).
-  * ...?
+  * Applying curl-free UP anomalies so that only ice transport (but not Ekman upwelling) is modified (?is this even possible?).
 
 ## Simulation responses
 
