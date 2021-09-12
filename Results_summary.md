@@ -34,7 +34,7 @@ Changes here are described for the UP perturbation, and unless otherwise specifi
   
   * A fast Ekman response is seen in the first year: [SSH increases over the shelf](https://github.com/adele157/easterlies-collaborative-project/issues/23#issuecomment-893299741), and [SST cools](https://github.com/adele157/easterlies-collaborative-project/issues/4#issuecomment-880263337). However these responses are quickly overwhelmed with changes in the opposite direction driven by the increasing DSW.
   
-  * To do: Add notes on Ekman pumping, sections of shelf that cool at the bottom (e.g. Amundsen).
+  * To do: Add notes on Ekman pumping, sections of shelf that cool at the bottom (e.g. Amundsen). Also, do we know what the trend in shelf salinity is?? 
 
 Why is DSW increasing? (Hypotheses)
 
@@ -42,7 +42,7 @@ Why is DSW increasing? (Hypotheses)
 
   * Wind-driven upwelling: The easterly winds drive [large-scale upwelling via Ekman pumping](https://github.com/adele157/easterlies-collaborative-project/issues/20) over nearly all the Antarctic margins (apart from a narrow coastal downward Ekman pumping). Where CDW isopycnals outcrop in the upwelling region, more CDW will brought onto the shelf. Due to the larger heat availability more DSW and sea ice can be formed. An idea to test this hypothesis is to look at the first 6 months of the UP run befre the first DSW formation season to quantify the change in upwelling. This could also be tested by only applying the UP perturbation outside of the winter season, to see if enhanced upwelling throughout the rest of the year still drives enhanced DSW formation in winter (though this may be entangled with the sea ice mechanism below). This is the same mechanism found by [Stewart and Thompson 2012](https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2012GL053099) in an idealised setup.
 
-  * Increased sea ice advection offshore: Instead of a local advection of sea ice by the katabatics in the DSW formation regions, it's the [large-scale offshore advection of sea ice](https://github.com/adele157/easterlies-collaborative-project/issues/10) which creates more ice-free area and allowing for more DSW formation. Ideas to better understand this hypothesis is to look at sea ice transport across, e.g., the 1000-m isobath.
+  * Increased sea ice advection offshore: Instead of a local advection of sea ice by the katabatics in the DSW formation regions, it's the [large-scale offshore advection of sea ice](https://github.com/adele157/easterlies-collaborative-project/issues/10) which creates more ice-free area and allowing for more DSW formation. Ideas to better understand this hypothesis is to look at sea ice transport across, e.g., the 1000-m isobath. Also, could we do an experiment which maintained the northward ice advection but without the Ekman upwelling?
  
  ## Comparison with reanalysis trends/CMIP6
 
