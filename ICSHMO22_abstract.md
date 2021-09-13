@@ -1,6 +1,6 @@
 # ISCHMO 2022 Abstract - deadline is Sept. 19.
 
-Please edit this page as you see fit. [this issue](https://github.com/adele157/easterlies-collaborative-project/issues/41) can be used for discussion (if needed), but please freely edit this page for the submission.
+Please edit this page as you see fit. [This issue](https://github.com/adele157/easterlies-collaborative-project/issues/41) can be used for discussion (if needed), but please freely edit this page for the submission.
 
 ## Title: Sensitivity of Antarctic coastal ocean and sea ice to coastal wind amplitude
 
