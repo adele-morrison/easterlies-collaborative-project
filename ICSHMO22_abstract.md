@@ -2,7 +2,7 @@
 
 Please edit this page as you see fit. [This issue](https://github.com/adele157/easterlies-collaborative-project/issues/41) can be used for discussion (if needed), but please freely edit this page for the submission.
 
-## Title: Sensitivity of Antarctic coastal ocean and sea ice to coastal wind amplitude
+## Title: Sensitivity of Antarctic shelf waters and sea ice to wind amplitude
 
 
 ## Authors (ordered by age): 
