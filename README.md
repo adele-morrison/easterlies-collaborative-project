@@ -27,7 +27,7 @@ Fortnightly on Thursday mornings:
 
   * ~~9:00am-11:30am, Thursday 9th September (convenor: Andy)~~
   
-  * 9:00am-11:30am, Thursday 23rd September (convenor: Steve)
+  * <del>9:00am-11:30am, Thursday 23rd September (convenor: Steve)
   
   * 9:00am-11:30am, Thursday 7th October (convenor: Adele)
  
