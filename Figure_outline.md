@@ -41,7 +41,10 @@ We formulate 3 potential hypotheses to explain the increased DSW formation:
 ## Local wind (katabatics) mechanism
 
 Fig 7 - no local wind simulation - show that this has very little difference to UP case.
-e.g.<img width="400" alt="130855208-acd86fc8-2ed3-4e5c-aa71-f832b65e8594" src="https://user-images.githubusercontent.com/8506963/134439067-aa70264e-6a58-40e8-a852-dc1563e0c672.png">
+e.g. time series of SWMT: <img width="400" alt="130855208-acd86fc8-2ed3-4e5c-aa71-f832b65e8594" src="https://user-images.githubusercontent.com/8506963/134439067-aa70264e-6a58-40e8-a852-dc1563e0c672.png">
+
+or change in bottom age from UP (averaged over years 0-6, which is why this looks different to Fig 2, which is averaged over years 11-15):
+<img width="1278" alt="Screen Shot 2021-09-23 at 3 18 03 pm" src="https://user-images.githubusercontent.com/8506963/134458141-61cba39e-9da3-436b-aca0-447dd1a199db.png">
 
 ## Upwelling mechanism
 
