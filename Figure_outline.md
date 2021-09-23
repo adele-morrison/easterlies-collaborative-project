@@ -18,10 +18,13 @@ Fig 2 - summary figure - SSH time series and bottom age map, maybe SWMT time ser
 
 <img width="400" alt="Screen Shot 2021-09-23 at 10 29 12 am" src="https://user-images.githubusercontent.com/8506963/125707732-83ec9aba-1a3e-4a4e-abb2-3955bb716ea7.png">
 
-## Hypotheses of different mechanisms
+This figure shows the primary response to the UP winds is an increase in DSW formation, enhanced AABW transport and a consequent decrease in age in the abyssal ocean.
 
-Propose 3 hypotheses: a) enhanced katabatics, b) more Ekman driven upwelling brings more salt onto shelf, c) enhanced northward sea ice advection reduces sea ice concentration.
-
+We formulate 3 potential hypotheses to explain the increased DSW formation: 
+1. The UP experiment has enhanced katabatic winds, which increase the surface water mass transformation in specific locations where coastal polynyas allow production of DSW;
+2.  The UP experimental forcing acts to increase Ekman driven upwelling in a broad region across the shelf, increasing along-isopycnal transport in CDW layers and thus bringing more salt onto shelf. This small change in the salt balance enhances transformation of water into denser classes;
+3.  The UP experiment increases northward sea ice transport of fresh water, which increases the salinity on the shelf and thereby enhances transformation rates (as per option 2).
+  
 ## Local wind (katabatics) mechanism
 
 Fig 3 - no local wind simulation - show that this has very little difference to UP case.
