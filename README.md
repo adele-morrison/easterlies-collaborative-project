@@ -9,7 +9,7 @@ The [Project/analysis Overview](https://github.com/adele157/easterlies_collabora
 
 To start contributing to the code, make your own branch directly in this repository, edit away on your branch, and then submit pull requests between your branch and the master branch (or merge directly).
 
-As we figure out the main results and develop the storyline, we can add to the [Results Summary here](https://github.com/adele157/easterlies-collaborative-project/blob/master/Results_summary.md).
+As we figure out the main results and develop the storyline, we can add to the [Results Summary here](https://github.com/adele157/easterlies-collaborative-project/blob/master/Results_summary.md) and [draft figure list for the paper here](https://github.com/adele157/easterlies-collaborative-project/blob/master/Figure_outline.md).
 
 ## Hackathon schedule (in Canberra/Sydney time zone)
 
