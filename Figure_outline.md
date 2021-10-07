@@ -2,6 +2,8 @@
 
 Note that there is detailed discussion of these figure in [this issue](https://github.com/adele157/easterlies-collaborative-project/issues/37). Let's keep the discussion on that issue, and we can use this page as a summary of that discussion.
 
+## NOTE: Each figure to have its own notebook.
+
 ## Forcing perturbation
 
 Fig 1 - experimental design (no CMIP6) - **Julia to update with streamplot version**
@@ -11,7 +13,7 @@ Fig 1 - experimental design (no CMIP6) - **Julia to update with streamplot versi
 
 ## Summary / motivation figure
 
-Fig 2 - summary figure - SSH, Ekman and overturning time series 
+Fig 2 - summary figure - SSH, Ekman and overturning time series;  (Actually, it's not clear to me exactly what the Ekman timeseries will entail...)
 
 <img width="700" alt="Screen Shot 2021-09-23 at 10 29 12 am" src="https://user-images.githubusercontent.com/8506963/134439191-807405ae-6af7-43ec-870b-b7574b95ebf7.png">
 
