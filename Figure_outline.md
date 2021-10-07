@@ -46,7 +46,7 @@ Fig 5 - Changes in buoyancy fluxes -- really to show that sea ice dominates. **A
 
 Fig 6 - Ekman driven upwelling change - e.g. show change in Ekman pumping binned into surface density bins, change in cross-isobath heat and salt transports in first 6 months before any DSW changes. **Paul will do this**
 
-Fig 7 - sea ice advection changes - e.g. maps of change in sea ice concentration and ice velocity, changes in ice export across 1000m isobath, perhaps include results of meridional only simulation to distinguish this mechanism from the upwelling mechanism. **Is this also for Paul?**
+Fig 7 - sea ice advection changes - e.g. maps of change in sea ice concentration and ice velocity, changes in ice export across 1000m isobath, perhaps include results of meridional only simulation to distinguish this mechanism from the upwelling mechanism. **Paul + Wilma to do this**
 
 ## Motivates two additional experiments -- UPMeridional and UPZonal.
 Fig 8 - A repeat of Fig 2 but with the two new experiments?
