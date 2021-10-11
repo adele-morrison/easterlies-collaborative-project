@@ -8,8 +8,8 @@ Note that there is detailed discussion of these figure in [this issue](https://g
 
 Fig 1 - experimental design (no CMIP6) - **Julia to update with streamplot version**
 
-![fig1_experimentalsetup](https://user-images.githubusercontent.com/51519847/134443719-773a86d3-bb9a-41fe-80f2-6c0783c1d43e.png)
-(a) Climatological wind speed of the control experiment with normalized wind vectors. Magenta contour marks the zero divide line (poleward of which the perturbation is applied), black contour marks the 1000m isobath, and red boxes mark the DSW formation regions where wind was masked in the additional experiment. (b) UP and (c) DOWN wind speed anomalies, with normalized wind vectors and 1000m isobath.
+![fig1_experimentalsetup](https://user-images.githubusercontent.com/51519847/136718268-77524750-3cae-46ad-8af7-a8b300779e6e.jpg)
+(a) Climatological wind speed of the control experiment. Blue contour marks the zero divide line (poleward of which the perturbation is applied), black contour marks the 1000m isobath, and yellow boxes mark the DSW formation regions where wind was masked in the additional experiment. Climatological (b) eastward and (c) northward wind velocities with 1000m isobath contour (black).
 
 ## Summary / motivation figure
 
