@@ -11,6 +11,8 @@ To start contributing to the code, make your own branch directly in this reposit
 
 As we figure out the main results and develop the storyline, we can add to the [Results Summary here](https://github.com/adele157/easterlies-collaborative-project/blob/master/Results_summary.md) and [draft figure list for the paper here](https://github.com/adele157/easterlies-collaborative-project/blob/master/Figure_outline.md).
 
+Overleaf project document:https://www.overleaf.com/2784668395hzzptbrfdtrv
+
 ## Hackathon schedule (in Canberra/Sydney time zone)
 
 Fortnightly on Thursday mornings:
