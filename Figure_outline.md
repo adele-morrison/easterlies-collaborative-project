@@ -6,14 +6,14 @@ Note that there is detailed discussion of these figure in [this issue](https://g
 
 ## Forcing perturbation
 
-Fig 1 - experimental design (no CMIP6) - **Julia to update with streamplot version**
+Fig 1 - experimental design (no CMIP6)
 
 ![fig1_experimentalsetup](https://user-images.githubusercontent.com/51519847/136718268-77524750-3cae-46ad-8af7-a8b300779e6e.jpg)
 (a) Climatological wind speed of the control experiment. Blue contour marks the zero divide line (poleward of which the perturbation is applied), black contour marks the 1000m isobath, and yellow boxes mark the DSW formation regions where wind was masked in the additional experiment. Climatological (b) eastward and (c) northward wind velocities with 1000m isobath contour (black).
 
 ## Summary / motivation figure
 
-Fig 2 - summary figure - SSH, Ekman and overturning time series;  (Actually, it's not clear to me exactly what the Ekman timeseries will entail...)
+Fig 2 - summary figure - SSH, Ekman and overturning time series;  (Actually, it's not clear to me exactly what the Ekman timeseries will entail...)  - **Julia to make this**
 
 <img width="700" alt="Screen Shot 2021-09-23 at 10 29 12 am" src="https://user-images.githubusercontent.com/8506963/134439191-807405ae-6af7-43ec-870b-b7574b95ebf7.png">
 
@@ -49,7 +49,7 @@ Fig 6 - Ekman driven upwelling change - e.g. show change in Ekman pumping binned
 Fig 7 - sea ice advection changes - e.g. maps of change in sea ice concentration and ice velocity, changes in ice export across 1000m isobath, perhaps include results of meridional only simulation to distinguish this mechanism from the upwelling mechanism. **Paul + Wilma to do this**
 
 ## Motivates two additional experiments -- UPMeridional and UPZonal.
-Fig 8 - A repeat of Fig 2 but with the two new experiments?
+Fig 8 - A repeat of Fig 2 but with the two new experiments? **Julia to make this**
 
 Fig 9 - ?? temperature changes??
 
