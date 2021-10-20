@@ -14,7 +14,7 @@ Fig 1 - experimental design
 
 ## Summary / motivation figure
 
-Fig 2 - summary figure - SSH, Ekman and overturning time series;  (Actually, it's not clear to me exactly what the Ekman timeseries will entail...)  - **Julia to make this**
+Fig 2 - summary figure - SSH, and cross-slope transport time series.  - **Julia to make this**
 
 <img width="700" alt="Screen Shot 2021-09-23 at 10 29 12 am" src="https://user-images.githubusercontent.com/8506963/134439191-807405ae-6af7-43ec-870b-b7574b95ebf7.png">
 
