@@ -16,7 +16,7 @@ Fig 1 - experimental design
 
 Fig 2 - summary figure - SSH, and cross-slope transport time series.  - **Julia to make this**
 
-<img width="700" alt="Screen Shot 2021-09-23 at 10 29 12 am" src="https://user-images.githubusercontent.com/8506963/134439191-807405ae-6af7-43ec-870b-b7574b95ebf7.png">
+<img width="700" alt="figure-2" src="https://user-images.githubusercontent.com/51519847/138806102-d3ca5b4f-0ed1-4ca8-8d31-0c5ee5df40bd.jpg">
 
 (As an aside, we have a running bet on how much the overturning at 55°S will change in the UP case. Paul: 10%, Wilma: 15%, Adele: 20%, Matt: 25%, Andy: 30%... TBD ...
 
@@ -51,6 +51,8 @@ Fig 7 - sea ice advection changes - e.g. maps of change in sea ice concentration
 
 ## Motivates two additional experiments -- UPMeridional and UPZonal.
 Fig 8 - A repeat of Fig 2 but with the two new experiments? **Julia to make this**
+
+<img width="700" alt="figure-8" src="https://user-images.githubusercontent.com/51519847/138806146-427d8efa-23bf-481f-ae42-9ba291547dec.jpg">
 
 Fig 9 - ?? temperature changes??
 
