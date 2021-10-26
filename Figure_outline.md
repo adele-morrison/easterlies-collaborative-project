@@ -35,7 +35,7 @@ We formulate 3 potential hypotheses to explain the increased DSW formation:
 
 Fig 4 - show results from "no katabatics" simulation. This will be a bar chart showing SWMT derived from this timeseries: **Adele to make this one.**
 
-<img width="400" alt="130855208-acd86fc8-2ed3-4e5c-aa71-f832b65e8594" src="https://user-images.githubusercontent.com/8506963/134439067-aa70264e-6a58-40e8-a852-dc1563e0c672.png">
+<img width="500" alt="Screen Shot 2021-09-23 at 10 29 12 am" src="https://user-images.githubusercontent.com/8506963/138973527-a449845c-9f35-48ca-9965-646e4c14f92d.jpg">
 
 This section will also list some headline numbers to show that the no katabatics case is the same as UP, but we will just add these to the text.
 
