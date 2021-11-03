@@ -44,6 +44,7 @@ This section will also list some headline numbers to show that the no katabatics
 Firstly, explain in more detail how these mechanisms will operate using:
 
 Fig 5 - Changes in buoyancy fluxes -- really to show that sea ice dominates. **Andy to do this.**
+![Figure5](https://user-images.githubusercontent.com/26753100/140189989-79010f6f-3f1d-4634-94e2-946d170e5050.png)
 
 Fig 6 - Ekman driven upwelling change - e.g. show change in Ekman pumping binned into surface density bins, change in cross-isobath heat and salt transports in first 6 months before any DSW changes. **Paul will do this**
 
