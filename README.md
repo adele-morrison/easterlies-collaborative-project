@@ -37,8 +37,10 @@ Fortnightly on Thursday mornings:
 
   * 9:00am-11:30am, Thursday 4th November (convenor: Paul)
  
-  * 9:00am-11:30am, Thursday 2nd December (convenor: Julia)
+  * 9:00am-11:30am, Thursday 18th November (convenor: Julia)
+ 
+  * 9:00am-11:30am, Thursday 2nd December (convenor: Andy)
 
-  * 9:00am-11:30am, Thursday 16th December (convenor: Andy)
+  * 9:00am-11:30am, Thursday 16th December (convenor: Matt)
 
   * etc.
