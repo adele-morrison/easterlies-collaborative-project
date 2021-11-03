@@ -31,10 +31,14 @@ Fortnightly on Thursday mornings:
   
   * <del>9:00am-11:30am, Thursday 23rd September (convenor: Steve)
   
-  * 9:00am-11:30am, Thursday 7th October (convenor: Adele)
+  * ~~9:00am-11:30am, Thursday 7th October (convenor: Adele)~~
  
-  * 9:00am-11:30am, Thursday 21st October (convenor: Wilma)
+  * ~~9:00am-11:30am, Thursday 21st October (convenor: Wilma)~~
 
   * 9:00am-11:30am, Thursday 4th November (convenor: Paul)
+ 
+  * 9:00am-11:30am, Thursday 2nd December (convenor: Julia)
+
+  * 9:00am-11:30am, Thursday 16th December (convenor: Andy)
 
   * etc.
