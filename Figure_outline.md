@@ -18,9 +18,7 @@ Fig 2 - summary figure - SSH, and cross-slope transport time series.  - **Julia 
 
 <img width="500" alt="figure-2" src="https://user-images.githubusercontent.com/51519847/138806102-d3ca5b4f-0ed1-4ca8-8d31-0c5ee5df40bd.jpg">
 
-(As an aside, we have a running bet on how much the overturning at 55°S will change in the UP case. Paul: 10%, Wilma: 15%, Adele: 20%, Matt: 25%, Andy: 30%... TBD ...
-
-Fig 3 - Maps showing Control, UP and DOWN bottom age (and salinity??) -- **Wilma is in charge here** 
+Fig 3 - Maps showing UP and DOWN bottom age and salinity anomalies. Maybe decide later if we want 4 panels, or combine with salt on the shelf and age in the abyss. -- **Wilma is in charge here** 
 <img width="700" alt="Screen Shot 2021-09-23 at 10 29 12 am" src="https://user-images.githubusercontent.com/15355753/137081279-5e1a4c01-7c32-4a4e-9699-33fde1ead8cc.png">
 
 This figure shows the primary response to the UP winds is an increase in DSW formation, enhanced AABW transport and a consequent decrease in age in the abyssal ocean. Leads to the question: "Why"?
