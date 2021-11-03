@@ -28,12 +28,16 @@ We formulate 3 potential hypotheses to explain the increased DSW formation:
 1. The UP experiment has enhanced katabatic winds, which increase the surface water mass transformation in specific locations where coastal polynyas allow production of DSW;
 2.  The UP experimental forcing acts to increase Ekman driven upwelling in a broad region across the shelf, increasing along-isopycnal transport in CDW layers and thus bringing more salt onto shelf. This small change in the salt balance enhances transformation of water into denser classes;
 3.  The UP experiment increases northward sea ice transport of fresh water, which increases the salinity on the shelf and thereby enhances transformation rates (as per option 2).
+
+Schematic figure of different hypotheses here??
   
 ## Local wind (katabatics) mechanism
 
-Fig 4 - show results from "no katabatics" simulation. This will be a bar chart showing SWMT derived from this timeseries: **Adele to make this one.**
+Fig 4 - show results from "no katabatics" simulation.  **Adele to make this one.**
 
 <img width="500" alt="Screen Shot 2021-09-23 at 10 29 12 am" src="https://user-images.githubusercontent.com/8506963/138973527-a449845c-9f35-48ca-9965-646e4c14f92d.jpg">
+
+This rules out hypothesis 1.
 
 This section will also list some headline numbers to show that the no katabatics case is the same as UP, but we will just add these to the text.
 
@@ -42,6 +46,9 @@ This section will also list some headline numbers to show that the no katabatics
 Firstly, explain in more detail how these mechanisms will operate using:
 
 Fig 5 - Changes in buoyancy fluxes -- really to show that sea ice dominates. **Andy to do this.**
+
+Suggestion for Andy here: I think the point here is to show for the UP and DOWN simulations: a) heat flux changes are insignificant compared to freshwater flux changes, and b) the changes in sea ice formation (i.e. melt diagnostic) dominate the change in the freshwater flux change. To do this, I think it would be best if all 3 of these things  have the same units, then can we show them all on the same plot? And keep zonal and meridional experiments until later.
+
 ![Figure5](https://user-images.githubusercontent.com/26753100/140189989-79010f6f-3f1d-4634-94e2-946d170e5050.png)
 
 Fig 6 - Ekman driven upwelling change - e.g. show change in Ekman pumping binned into surface density bins, change in cross-isobath heat and salt transports in first 6 months before any DSW changes. **Paul will do this**
