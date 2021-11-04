@@ -52,7 +52,7 @@ Suggestion for Andy here: I think the point here is to show for the UP and DOWN 
 
 ![Figure5](https://user-images.githubusercontent.com/26753100/140189989-79010f6f-3f1d-4634-94e2-946d170e5050.png)
 
-Fig 6 - Ekman driven upwelling change - e.g. show change in Ekman pumping binned into surface density bins. - **Paul**
+Fig 6 - Ekman driven upwelling change - using calculation of Ekman pumping binned into surface density bins. - **Paul**
 
 This figure ideally shows that upwelling in CDW classes increases in UP, and that this is driven by the zonal component of the wind change not the meridional component. Would it make sense at this stage not to use the actual zonal/meridional experiments, but to just use the different components of the wind stress from the UP/control to show this?
 
