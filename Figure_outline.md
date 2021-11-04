@@ -58,7 +58,7 @@ This figure ideally shows that upwelling in CDW classes increases in UP, and tha
 
 Fig 7 - Sea ice advection changes - maps of change in sea ice concentration and ice velocity. - **Paul**
 
-The sea ice velocity plot shows that the it's the meridional component of the winds that are mostly responsible for the sea ice advection and therefore sea ice concentration changes.
+The sea ice velocity plot shows that it's the meridional component of the winds that dominate the sea ice advection changes and therefore sea ice concentration changes.
 
 ## Motivates two additional experiments -- UPMeridional and UPZonal.
 Fig 8 - SSH and DSW cross-slope transport in the UP, UPzonal and UPmeridional experiments - **Julia**
