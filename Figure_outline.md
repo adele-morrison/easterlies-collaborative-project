@@ -6,7 +6,7 @@ Note that there is detailed discussion of these figure in [this issue](https://g
 
 ## Forcing perturbation
 
-Fig 1 - experimental design **Julia**
+Fig 1 - experimental design - **Julia**
 
 <img width="700" alt="fig1_experimentalsetup" src="https://user-images.githubusercontent.com/51519847/136718268-77524750-3cae-46ad-8af7-a8b300779e6e.jpg">
 
@@ -33,7 +33,7 @@ Schematic figure of different hypotheses here??
   
 ## Local wind (katabatics) mechanism
 
-Fig 4 - show results from "no katabatics" simulation.  Add error bar to control to show interannual (or 5 year avg) variability. **Adele**
+Fig 4 - show results from "no katabatics" simulation.  Add error bar to control to show interannual (or 5 year avg) variability. - **Adele**
 
 <img width="500" alt="Screen Shot 2021-09-23 at 10 29 12 am" src="https://user-images.githubusercontent.com/8506963/138973527-a449845c-9f35-48ca-9965-646e4c14f92d.jpg">
 
@@ -45,30 +45,30 @@ This section will also list some headline numbers to show that the no katabatics
 
 Firstly, explain in more detail how these mechanisms will operate using:
 
-Fig 5 - Changes in buoyancy fluxes -- really to show that sea ice dominates. **Andy**
+Fig 5 - Changes in buoyancy fluxes -- really to show that sea ice dominates. - **Andy**
 
 Suggestion for Andy here: I think the point here is to show for the UP and DOWN simulations: a) heat flux changes are insignificant compared to freshwater flux changes, and b) the changes in sea ice formation (i.e. melt diagnostic) dominate the change in the freshwater flux change. To do this, I think it would be best if all 3 of these things  have the same units, then can we show them all on the same plot? And keep zonal and meridional experiments until later.
 
 ![Figure5](https://user-images.githubusercontent.com/26753100/140189989-79010f6f-3f1d-4634-94e2-946d170e5050.png)
 
-Fig 6 - Ekman driven upwelling change - e.g. show change in Ekman pumping binned into surface density bins. **Paul**
+Fig 6 - Ekman driven upwelling change - e.g. show change in Ekman pumping binned into surface density bins. - **Paul**
 
 This figure ideally shows that upwelling in CDW classes increases in UP, and that this is driven by the zonal component of the wind change not the meridional component. Would it make sense at this stage not to use the actual zonal/meridional experiments, but to just use the different components of the wind stress from the UP/control to show this?
 
-Fig 7 - Sea ice advection changes - maps of change in sea ice concentration and ice velocity. **Paul**
+Fig 7 - Sea ice advection changes - maps of change in sea ice concentration and ice velocity. - **Paul**
 
 The sea ice velocity plot shows that the it's the meridional component of the winds that are mostly responsible for the sea ice advection and therefore sea ice concentration changes.
 
 ## Motivates two additional experiments -- UPMeridional and UPZonal.
-Fig 8 - SSH and DSW cross-slope transport in the UP, UPzonal and UPmeridional experiments **Julia**
+Fig 8 - SSH and DSW cross-slope transport in the UP, UPzonal and UPmeridional experiments - **Julia**
 
 <img width="700" alt="figure-8" src="https://user-images.githubusercontent.com/51519847/138806146-427d8efa-23bf-481f-ae42-9ba291547dec.jpg">
 
 This shows that the DSW increase in UP is driven by the meridional component of the winds. This disproves hypothesis 2 and proves hypothesis 3 (based on what was shown about the dominance of zonal/meridional winds in Figures 6 and 7).
 
-Do we need to include other figures here to expand on this argument more? Like the ice export across 1000m isobath in the meridional and zonal simulations? **Wilma**
+Do we need to include other figures here to expand on this argument more? Like the ice export across 1000m isobath in the meridional and zonal simulations? - **Wilma**
 
-Fig 9 - Temperature changes **Wilma**
+Fig 9 - Temperature changes - **Wilma**
 
 ## Summary
 Fig 10 -  Schematic illustration
