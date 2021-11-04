@@ -33,7 +33,7 @@ Schematic figure of different hypotheses here??
   
 ## Local wind (katabatics) mechanism
 
-Fig 4 - show results from "no katabatics" simulation.  **Adele to make this one.**
+Fig 4 - show results from "no katabatics" simulation.  Add error bar to control to show interannual (or 5 year avg) variability. **Adele to make this one.**
 
 <img width="500" alt="Screen Shot 2021-09-23 at 10 29 12 am" src="https://user-images.githubusercontent.com/8506963/138973527-a449845c-9f35-48ca-9965-646e4c14f92d.jpg">
 
