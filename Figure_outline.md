@@ -14,9 +14,9 @@ Fig 1 - experimental design - **Julia**
 
 ## Summary / motivation figure
 
-Fig 2 - summary figure - SSH, and cross-slope transport time series.  - **Julia**
+Fig 2 - summary figure - SSH, and cross-slope transport time series with 6 month running mean.  - **Julia**
 
-<img width="500" alt="figure-2" src="https://user-images.githubusercontent.com/51519847/138806102-d3ca5b4f-0ed1-4ca8-8d31-0c5ee5df40bd.jpg">
+<img width="500" alt="figure-2" src="https://user-images.githubusercontent.com/51519847/140662868-19ca680e-d45d-4f1c-b52a-9b681ee98c1f.jpg">
 
 Fig 3 - Maps showing UP and DOWN bottom age and salinity anomalies. Maybe decide later if we want 4 panels, or combine with salt on the shelf and age in the abyss. -- **Wilma** 
 
