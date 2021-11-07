@@ -63,7 +63,7 @@ The sea ice velocity plot shows that it's the meridional component of the winds 
 ## Motivates two additional experiments -- UPMeridional and UPZonal.
 Fig 8 - SSH and DSW cross-slope transport in the UP, UPzonal and UPmeridional experiments - **Julia**
 
-<img width="700" alt="figure-8" src="https://user-images.githubusercontent.com/51519847/138806146-427d8efa-23bf-481f-ae42-9ba291547dec.jpg">
+<img width="700" alt="figure-8" src="https://user-images.githubusercontent.com/51519847/140663324-4bc8ddb7-d979-481f-9e71-0a4ea4dee3d6.jpg">
 
 This shows that the DSW increase in UP is driven by the meridional component of the winds. This disproves hypothesis 2 and proves hypothesis 3 (based on what was shown about the dominance of zonal/meridional winds in Figures 6 and 7).
 
