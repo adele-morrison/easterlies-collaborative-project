@@ -14,9 +14,9 @@ Fig 1 - experimental design - **Julia**
 
 ## Summary / motivation figure
 
-Fig 2 - summary figure - SSH, and cross-slope transport time series with 6 month running mean.  - **Julia**
+Fig 2 - summary figure - SSH, and cross-slope transport time series with 12 month running mean.  - **Julia**
 
-<img width="500" alt="figure-2" src="https://user-images.githubusercontent.com/51519847/140662868-19ca680e-d45d-4f1c-b52a-9b681ee98c1f.jpg">
+<img width="500" alt="figure-2" src="https://user-images.githubusercontent.com/51519847/140673476-ad4339fa-1150-40dc-9bb8-89ff685fac27.jpg">
 
 Fig 3 - Maps showing UP and DOWN bottom age and salinity anomalies. Maybe decide later if we want 4 panels, or combine with salt on the shelf and age in the abyss. -- **Wilma** 
 
@@ -61,9 +61,9 @@ Fig 7 - Sea ice advection changes - maps of change in sea ice concentration and 
 The sea ice velocity plot shows that it's the meridional component of the winds that dominate the sea ice advection changes and therefore sea ice concentration changes.
 
 ## Motivates two additional experiments -- UPMeridional and UPZonal.
-Fig 8 - SSH and DSW cross-slope transport in the UP, UPzonal and UPmeridional experiments - **Julia**
+Fig 8 - SSH and DSW cross-slope transport in the UP, UPzonal and UPmeridional experiments with a 12 month running mean- **Julia**
 
-<img width="700" alt="figure-8" src="https://user-images.githubusercontent.com/51519847/140663324-4bc8ddb7-d979-481f-9e71-0a4ea4dee3d6.jpg">
+<img width="700" alt="figure-8" src="https://user-images.githubusercontent.com/51519847/140673494-a2b182ab-3bcf-46ed-be09-5ee4c42817aa.jpg">
 
 This shows that the DSW increase in UP is driven by the meridional component of the winds. This disproves hypothesis 2 and proves hypothesis 3 (based on what was shown about the dominance of zonal/meridional winds in Figures 6 and 7).
 
