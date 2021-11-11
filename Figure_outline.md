@@ -20,7 +20,7 @@ Fig 2 - summary figure - SSH, and cross-slope transport time series with 12 mont
 
 Fig 3 - Maps showing UP and DOWN bottom age and salinity anomalies. Maybe decide later if we want 4 panels, or combine with salt on the shelf and age in the abyss. -- **Wilma** 
 
-<img width="700" alt="Screen Shot 2021-09-23 at 10 29 12 am" src="https://user-images.githubusercontent.com/15355753/137081279-5e1a4c01-7c32-4a4e-9699-33fde1ead8cc.png">
+![Fig3_Bottom_Age_Salt_Anomaly](https://user-images.githubusercontent.com/15355753/141380672-fb3b9e36-a78e-4378-8f8c-c3385b27d858.png)
 
 This figure shows the primary response to the UP winds is an increase in DSW formation, enhanced AABW transport and a consequent decrease in age in the abyssal ocean. Leads to the question: "Why"?
 
@@ -70,6 +70,9 @@ This shows that the DSW increase in UP is driven by the meridional component of 
 Do we need to include other figures here to expand on this argument more? Like the ice export across 1000m isobath in the meridional and zonal simulations? - **Wilma**
 
 Fig 9 - Temperature changes - **Wilma**
+
+![Fig9_Temp_anomaly](https://user-images.githubusercontent.com/15355753/141380759-244f6be0-9bd9-4586-a300-dc1a083c7b5e.png)
+
 
 ## Summary
 Fig 10 -  Schematic illustration
