@@ -46,6 +46,9 @@ This section will also list some headline numbers to show that the no katabatics
 
 Fig 5 - show that CDW isopycnals don't (or only rarely) outcrop (ideas: density as function of depth along the 1000m isobath; or find the transect where CDW is shallowest; or ... ?).
 
+Place holder figure:
+<img width="500" alt="Screen Shot 2021-09-23 at 10 29 12 am" src="https://user-images.githubusercontent.com/6644956/141217382-49832de1-c3d4-4367-8664-54657d37c0db.png">
+
 This rules out hypothesis 2 (or at least indicates it's unlikely, and we will return to it later on to more thoroughly rule it out).
 
 ## Sea ice mechanism
@@ -59,15 +62,20 @@ Fig 7 - Sea ice advection changes - maps of change in sea ice concentration and 
 The sea ice velocity plot shows that it's the meridional component of the winds that dominate the sea ice advection changes and therefore sea ice concentration changes.
 
 ## Motivates two additional experiments -- UPMeridional and UPZonal.
-Fig 8 - SSH and DSW cross-slope transport in the UP, UPzonal and UPmeridional experiments with a 12 month running mean- Also include sea ice export here (difference of melt and sea ice volume changes) **Julia and Andy**
+Fig 8 - SSH and DSW cross-slope transport in the UP, UPzonal and UPmeridional experiments with a 12 month running mean- Also include a panel for sea ice export here (difference of melt and sea ice volume changes) **Julia and Andy**
 
-<img width="700" alt="figure-8" src="https://user-images.githubusercontent.com/51519847/140673494-a2b182ab-3bcf-46ed-be09-5ee4c42817aa.jpg">
+<img width="600" alt="figure-8" src="https://user-images.githubusercontent.com/51519847/140673494-a2b182ab-3bcf-46ed-be09-5ee4c42817aa.jpg">
 
 This shows that the DSW increase in UP is driven by the meridional component of the winds, consistent with the sea ice mechanism explained above. 
 
 Fig 9 - Ekman driven upwelling change - using calculation of Ekman pumping binned into surface density bins. - **Paul**
 
+Placeholder figure:
+<img width="600" alt="figure-9" src="https://https://user-images.githubusercontent.com/6644956/141217129-9e76bc4f-3bd1-49af-8e3c-63e1e3c86b0f.png">
+
 This figure is included here to more conclusively rule out hypothesis 2. This plot shows that upwelling in CDW classes increases in UP, and that this is driven by the zonal component of the wind change not the meridional component. The argument here is that even if the CDW isopycnals do outcrop and experience Ekman upwelling (i.e. if our assumption above in Figure 5 was wrong due to stratification within the mixed layer and surface diabatic effects), this Ekman upwelling is coming from the zonal component, which results in no DSW change. So therefore hypothesis 3 is correct.
+
+## Impact on shelf temperature.
 
 Fig 10 - Temperature changes - add in zonal and meridional simulations **Wilma and Paul**
 
@@ -77,10 +85,12 @@ Explanation of temperature changes (yet to check this in the zonal/meridional si
 - Warming occurs in UP at or downstream of DSW formation sites due to enhanced upward heat transport that occurs when lower overturning cell increases. We hypothesise this will come from the meridional component.
 - Cooling occurs in UP elsewhere (most of West and East Antarctica) due to depression of isopycnals that occurs due to downward Ekman pumping at coast. We hypothesise this will come from the zonal component.
 
+Possibly include a figure of surface temperature changes here or in supplementary? Or not?
+
 ## Summary
 Fig 11 -  Schematic illustration - 2 transect panels showing zonal and meridional wind dynamics. Show background temperature change and example isopycnals. Important dynamics to show:
-Zonal panel: surface southward Ekman transport increases, isopycnals deepen, cooling in shelf.
-Meridional panel: northward sea ice export increases leading to more open water and more sea ice formation, lower overturning cell increases (both DSW export and CDW import), warming on shelf due to change in heat transport associated with lower cell.
+- Zonal panel: surface southward Ekman transport increases, isopycnals deepen, cooling in shelf.
+- Meridional panel: northward sea ice export increases leading to more open water and more sea ice formation, lower overturning cell increases (both DSW export and CDW import), warming on shelf due to change in heat transport associated with lower cell.
 
 
 
