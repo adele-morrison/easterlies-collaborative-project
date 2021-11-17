@@ -42,40 +42,45 @@ This rules out hypothesis 1.
 
 This section will also list some headline numbers to show that the no katabatics case is the same as UP, but we will just add these to the text.
 
-## Upwelling and sea ice mechanisms
+## Upwelling mechanism
 
-Firstly, explain in more detail how these mechanisms will operate using:
+Fig 5 - show that CDW isopycnals don't (or only rarely) outcrop (ideas: density as function of depth along the 1000m isobath; or find the transect where CDW is shallowest; or ... ?).
 
-Fig 5 - Changes in buoyancy fluxes -- really to show that sea ice dominates. - **Andy**
+This rules out hypothesis 2 (or at least indicates it's unlikely, and we will return to it later on to more thoroughly rule it out).
 
-Suggestion for Andy here: I think the point here is to show for the UP and DOWN simulations: a) heat flux changes are insignificant compared to freshwater flux changes, and b) the changes in sea ice formation (i.e. melt diagnostic) dominate the change in the freshwater flux change. To do this, I think it would be best if all 3 of these things  have the same units, then can we show them all on the same plot? And keep zonal and meridional experiments until later.
+## Sea ice mechanism
+
+Fig 6 - Changes in buoyancy fluxes to show that freshwater fluxes dominate over heat fluxes and that sea ice processes dominate the freshwater flux. - **Andy**
 
 ![Figure5](https://user-images.githubusercontent.com/26753100/140189989-79010f6f-3f1d-4634-94e2-946d170e5050.png)
-
-Fig 6 - Ekman driven upwelling change - using calculation of Ekman pumping binned into surface density bins. - **Paul**
-
-This figure ideally shows that upwelling in CDW classes increases in UP, and that this is driven by the zonal component of the wind change not the meridional component. Would it make sense at this stage not to use the actual zonal/meridional experiments, but to just use the different components of the wind stress from the UP/control to show this?
 
 Fig 7 - Sea ice advection changes - maps of change in sea ice concentration and ice velocity. - **Paul**
 
 The sea ice velocity plot shows that it's the meridional component of the winds that dominate the sea ice advection changes and therefore sea ice concentration changes.
 
 ## Motivates two additional experiments -- UPMeridional and UPZonal.
-Fig 8 - SSH and DSW cross-slope transport in the UP, UPzonal and UPmeridional experiments with a 12 month running mean- **Julia**
+Fig 8 - SSH and DSW cross-slope transport in the UP, UPzonal and UPmeridional experiments with a 12 month running mean- Also include sea ice export here (difference of melt and sea ice volume changes) **Julia and Andy**
 
 <img width="700" alt="figure-8" src="https://user-images.githubusercontent.com/51519847/140673494-a2b182ab-3bcf-46ed-be09-5ee4c42817aa.jpg">
 
-This shows that the DSW increase in UP is driven by the meridional component of the winds. This disproves hypothesis 2 and proves hypothesis 3 (based on what was shown about the dominance of zonal/meridional winds in Figures 6 and 7).
+This shows that the DSW increase in UP is driven by the meridional component of the winds, consistent with the sea ice mechanism explained above. 
 
-Do we need to include other figures here to expand on this argument more? Like the ice export across 1000m isobath in the meridional and zonal simulations? - **Wilma**
+Fig 9 - Ekman driven upwelling change - using calculation of Ekman pumping binned into surface density bins. - **Paul**
 
-Fig 9 - Temperature changes - **Wilma**
+This figure is included here to more conclusively rule out hypothesis 2. This plot shows that upwelling in CDW classes increases in UP, and that this is driven by the zonal component of the wind change not the meridional component. The argument here is that even if the CDW isopycnals do outcrop and experience Ekman upwelling (i.e. if our assumption above in Figure 5 was wrong due to stratification within the mixed layer and surface diabatic effects), this Ekman upwelling is coming from the zonal component, which results in no DSW change. So therefore hypothesis 3 is correct.
+
+Fig 10 - Temperature changes - add in zonal and meridional simulations **Wilma and Paul**
 
 ![Fig9_Temp_anomaly](https://user-images.githubusercontent.com/15355753/141380759-244f6be0-9bd9-4586-a300-dc1a083c7b5e.png)
 
+Explanation of temperature changes (yet to check this in the zonal/meridional simulations): 
+- Warming occurs in UP at or downstream of DSW formation sites due to enhanced upward heat transport that occurs when lower overturning cell increases. We hypothesise this will come from the meridional component.
+- Cooling occurs in UP elsewhere (most of West and East Antarctica) due to depression of isopycnals that occurs due to downward Ekman pumping at coast. We hypothesise this will come from the zonal component.
 
 ## Summary
-Fig 10 -  Schematic illustration
+Fig 11 -  Schematic illustration - 2 transect panels showing zonal and meridional wind dynamics. Show background temperature change and example isopycnals. Important dynamics to show:
+Zonal panel: surface southward Ekman transport increases, isopycnals deepen, cooling in shelf.
+Meridional panel: northward sea ice export increases leading to more open water and more sea ice formation, lower overturning cell increases (both DSW export and CDW import), warming on shelf due to change in heat transport associated with lower cell.
 
 
 
