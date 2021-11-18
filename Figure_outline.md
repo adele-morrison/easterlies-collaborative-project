@@ -20,7 +20,7 @@ Fig 2 - summary figure - SSH, and cross-slope transport time series with 12 mont
 
 Fig 3 - Maps showing UP and DOWN bottom age and salinity anomalies. Maybe decide later if we want 4 panels, or combine with salt on the shelf and age in the abyss. -- **Wilma** 
 
-![Fig3_Bottom_Age_Salt_Anomaly](https://user-images.githubusercontent.com/15355753/141380672-fb3b9e36-a78e-4378-8f8c-c3385b27d858.png)
+<img width="600" alt="figure-2" src="https://user-images.githubusercontent.com/15355753/141380672-fb3b9e36-a78e-4378-8f8c-c3385b27d858.png">
 
 This figure shows the primary response to the UP winds is an increase in DSW formation, enhanced AABW transport and a consequent decrease in age in the abyssal ocean. Leads to the question: "Why"?
 
@@ -36,7 +36,7 @@ Schematic figure of different hypotheses here??
 
 Fig 4 - show results from "no katabatics" simulation.  Add error bar to control to show interannual (or 5 year avg) variability. - **Adele**
 
-<img width="500" alt="Screen Shot 2021-09-23 at 10 29 12 am" src="https://user-images.githubusercontent.com/8506963/138973527-a449845c-9f35-48ca-9965-646e4c14f92d.jpg">
+<img width="400" alt="Screen Shot 2021-09-23 at 10 29 12 am" src="https://user-images.githubusercontent.com/8506963/138973527-a449845c-9f35-48ca-9965-646e4c14f92d.jpg">
 
 This rules out hypothesis 1.
 
@@ -47,6 +47,7 @@ This section will also list some headline numbers to show that the no katabatics
 Fig 5 - show that CDW isopycnals don't (or only rarely) outcrop (ideas: density as function of depth along the 1000m isobath; or find the transect where CDW is shallowest; or ... ?).
 
 Place holder figure:
+
 <img width="500" alt="Screen Shot 2021-09-23 at 10 29 12 am" src="https://user-images.githubusercontent.com/6644956/141217382-49832de1-c3d4-4367-8664-54657d37c0db.png">
 
 This rules out hypothesis 2 (or at least indicates it's unlikely, and we will return to it later on to more thoroughly rule it out).
@@ -55,7 +56,7 @@ This rules out hypothesis 2 (or at least indicates it's unlikely, and we will re
 
 Fig 6 - Changes in buoyancy fluxes to show that freshwater fluxes dominate over heat fluxes and that sea ice processes dominate the freshwater flux. - **Andy**
 
-![Figure5](https://user-images.githubusercontent.com/26753100/140189989-79010f6f-3f1d-4634-94e2-946d170e5050.png)
+![Figure5](https://user-images.githubusercontent.com/26753100/140628956-57bc2eb9-ceb0-4525-8cf0-b0d46bc1a655.png)
 
 Fig 7 - Sea ice advection changes - maps of change in sea ice concentration and ice velocity. - **Paul**
 
@@ -71,7 +72,8 @@ This shows that the DSW increase in UP is driven by the meridional component of 
 Fig 9 - Ekman driven upwelling change - using calculation of Ekman pumping binned into surface density bins. - **Paul**
 
 Placeholder figure:
-<img width="600" alt="figure-9" src="https://https://user-images.githubusercontent.com/6644956/141217129-9e76bc4f-3bd1-49af-8e3c-63e1e3c86b0f.png">
+
+<img width="600" alt="figure-9" src="https://user-images.githubusercontent.com/6644956/141217129-9e76bc4f-3bd1-49af-8e3c-63e1e3c86b0f.png">
 
 This figure is included here to more conclusively rule out hypothesis 2. This plot shows that upwelling in CDW classes increases in UP, and that this is driven by the zonal component of the wind change not the meridional component. The argument here is that even if the CDW isopycnals do outcrop and experience Ekman upwelling (i.e. if our assumption above in Figure 5 was wrong due to stratification within the mixed layer and surface diabatic effects), this Ekman upwelling is coming from the zonal component, which results in no DSW change. So therefore hypothesis 3 is correct.
 
