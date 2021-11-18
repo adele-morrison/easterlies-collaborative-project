@@ -20,7 +20,7 @@ Fig 2 - summary figure - SSH, and cross-slope transport time series with 12 mont
 
 Fig 3 - Maps showing UP and DOWN bottom age and salinity anomalies. Maybe decide later if we want 4 panels, or combine with salt on the shelf and age in the abyss. -- **Wilma** 
 
-<img width="600" alt="figure-2" src="https://user-images.githubusercontent.com/15355753/141380672-fb3b9e36-a78e-4378-8f8c-c3385b27d858.png">
+<img width="700" alt="figure-2" src="https://user-images.githubusercontent.com/15355753/141380672-fb3b9e36-a78e-4378-8f8c-c3385b27d858.png">
 
 This figure shows the primary response to the UP winds is an increase in DSW formation, enhanced AABW transport and a consequent decrease in age in the abyssal ocean. Leads to the question: "Why"?
 
@@ -56,9 +56,13 @@ This rules out hypothesis 2 (or at least indicates it's unlikely, and we will re
 
 Fig 6 - Changes in buoyancy fluxes to show that freshwater fluxes dominate over heat fluxes and that sea ice processes dominate the freshwater flux. - **Andy**
 
-![Figure5](https://user-images.githubusercontent.com/26753100/140628956-57bc2eb9-ceb0-4525-8cf0-b0d46bc1a655.png)
+<img width="500" alt="Screen Shot 2021-09-23 at 10 29 12 am" src="https://user-images.githubusercontent.com/26753100/140628956-57bc2eb9-ceb0-4525-8cf0-b0d46bc1a655.png">
 
 Fig 7 - Sea ice advection changes - maps of change in sea ice concentration and ice velocity. - **Paul**
+
+Place holder figure:
+
+<img width="500" alt="Screen Shot 2021-09-23 at 10 29 12 am" src="https://user-images.githubusercontent.com/6644956/125704607-e323c643-1d45-43b4-94f5-2a55c7fdb268.png">
 
 The sea ice velocity plot shows that it's the meridional component of the winds that dominate the sea ice advection changes and therefore sea ice concentration changes.
 
