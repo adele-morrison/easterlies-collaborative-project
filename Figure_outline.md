@@ -56,13 +56,13 @@ This rules out hypothesis 2 (or at least indicates it's unlikely, and we will re
 
 Fig 6 - Changes in buoyancy fluxes to show that freshwater fluxes dominate over heat fluxes and that sea ice processes dominate the freshwater flux. - **Andy**
 
-<img width="500" alt="Screen Shot 2021-09-23 at 10 29 12 am" src="https://user-images.githubusercontent.com/26753100/140628956-57bc2eb9-ceb0-4525-8cf0-b0d46bc1a655.png">
+<img width="600" alt="Screen Shot 2021-09-23 at 10 29 12 am" src="https://user-images.githubusercontent.com/26753100/140628956-57bc2eb9-ceb0-4525-8cf0-b0d46bc1a655.png">
 
 Fig 7 - Sea ice advection changes - maps of change in sea ice concentration and ice velocity. - **Paul**
 
 Place holder figure:
 
-<img width="500" alt="Screen Shot 2021-09-23 at 10 29 12 am" src="https://user-images.githubusercontent.com/6644956/125704607-e323c643-1d45-43b4-94f5-2a55c7fdb268.png">
+<img width="600" alt="Screen Shot 2021-09-23 at 10 29 12 am" src="https://user-images.githubusercontent.com/6644956/125704607-e323c643-1d45-43b4-94f5-2a55c7fdb268.png">
 
 The sea ice velocity plot shows that it's the meridional component of the winds that dominate the sea ice advection changes and therefore sea ice concentration changes.
 
@@ -75,7 +75,7 @@ This shows that the DSW increase in UP is driven by the meridional component of 
 
 Fig 9 - Ekman driven upwelling change - using calculation of Ekman pumping binned into surface density bins. - **Paul**
 
-Placeholder figure:
+Placeholder figure (just need top panel here):
 
 <img width="600" alt="figure-9" src="https://user-images.githubusercontent.com/6644956/141217129-9e76bc4f-3bd1-49af-8e3c-63e1e3c86b0f.png">
 
@@ -85,7 +85,7 @@ This figure is included here to more conclusively rule out hypothesis 2. This pl
 
 Fig 10 - Temperature changes - add in zonal and meridional simulations **Wilma and Paul**
 
-![Fig9_Temp_anomaly](https://user-images.githubusercontent.com/15355753/141380759-244f6be0-9bd9-4586-a300-dc1a083c7b5e.png)
+<img width="600" alt="figure-9" src="https://user-images.githubusercontent.com/15355753/141380759-244f6be0-9bd9-4586-a300-dc1a083c7b5e.png">
 
 Explanation of temperature changes (yet to check this in the zonal/meridional simulations): 
 - Warming occurs in UP at or downstream of DSW formation sites due to enhanced upward heat transport that occurs when lower overturning cell increases. We hypothesise this will come from the meridional component.
