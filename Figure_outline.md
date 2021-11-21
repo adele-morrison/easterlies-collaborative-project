@@ -56,7 +56,7 @@ This rules out hypothesis 2 (or at least indicates it's unlikely, and we will re
 
 Fig 6 - Changes in buoyancy fluxes to show that freshwater fluxes dominate over heat fluxes and that sea ice processes dominate the freshwater flux. - **Andy**
 
-<img width="600" alt="Screen Shot 2021-09-23 at 10 29 12 am" src="https://user-images.githubusercontent.com/26753100/140628956-57bc2eb9-ceb0-4525-8cf0-b0d46bc1a655.png">
+<img width="600" alt="Figure-6" src="https://user-images.githubusercontent.com/26753100/142781542-b4886f2b-725b-4dd1-adbe-de80b7c8b1b5.png">
 
 Fig 7 - Sea ice advection changes - maps of change in sea ice concentration and ice velocity. - **Paul**
 
