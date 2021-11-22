@@ -99,8 +99,5 @@ Possibly include a figure of surface temperature changes here or in supplementar
 ## Summary
 Fig 11 -  Schematic illustration draft:
 
-<img width="350" alt="easterly_schematic_cooling" src="https://user-images.githubusercontent.com/8506963/142790343-a912f02d-d1fe-4084-931e-4709fa56d2af.jpg">   <img width="350" alt="northerly_schematic" src="https://user-images.githubusercontent.com/8506963/142783756-5bec9d7e-46c6-4340-9661-ad88828b8bdd.jpg">
-
-
-
+<img width="350" alt="easterly_schematic_cooling" src="https://user-images.githubusercontent.com/8506963/142951006-f18a6f70-be41-45bf-ade0-0ba9fe2769b2.jpg">   <img width="350" alt="northerly_schematic" src="https://user-images.githubusercontent.com/8506963/142950917-e9f80294-861e-4e18-bf0c-9e2b61dc7929.jpg">
 
