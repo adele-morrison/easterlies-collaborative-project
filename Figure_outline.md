@@ -87,16 +87,20 @@ Fig 10 - Temperature changes - add in zonal and meridional simulations **Wilma a
 
 <img width="600" alt="figure-9" src="https://user-images.githubusercontent.com/15355753/141380759-244f6be0-9bd9-4586-a300-dc1a083c7b5e.png">
 
-Explanation of temperature changes (yet to check this in the zonal/meridional simulations): 
+Place holder for zonal/meridional perturbation temperature changes:
+<img width="800" alt="Screen Shot 2021-11-22 at 11 50 24 am" src="https://user-images.githubusercontent.com/8506963/142786214-4b1c0df6-a522-49fb-80a0-dff9e69bda1a.png">
+
+Explanation of temperature changes: 
 - Warming occurs in UP at or downstream of DSW formation sites due to enhanced upward heat transport that occurs when lower overturning cell increases. We hypothesise this will come from the meridional component.
 - Cooling occurs in UP elsewhere (most of West and East Antarctica) due to depression of isopycnals that occurs due to downward Ekman pumping at coast. We hypothesise this will come from the zonal component.
 
 Possibly include a figure of surface temperature changes here or in supplementary? Or not?
 
 ## Summary
-Fig 11 -  Schematic illustration - 2 transect panels showing zonal and meridional wind dynamics. Show background temperature change and example isopycnals. Important dynamics to show:
-- Zonal panel: surface southward Ekman transport increases, isopycnals deepen, cooling in shelf.
-- Meridional panel: northward sea ice export increases leading to more open water and more sea ice formation, lower overturning cell increases (both DSW export and CDW import), warming on shelf due to change in heat transport associated with lower cell.
+Fig 11 -  Schematic illustration draft:
+
+<img width="350" alt="easterly_schematic_cooling" src="https://user-images.githubusercontent.com/8506963/142790343-a912f02d-d1fe-4084-931e-4709fa56d2af.jpg">   <img width="350" alt="northerly_schematic" src="https://user-images.githubusercontent.com/8506963/142783756-5bec9d7e-46c6-4340-9661-ad88828b8bdd.jpg">
+
 
 
 
