@@ -44,7 +44,7 @@ This section will also list some headline numbers to show that the no katabatics
 
 ## Upwelling mechanism
 
-Fig 5 - show that CDW isopycnals don't (or only rarely) outcrop (ideas: density as function of depth along the 1000m isobath; or find the transect where CDW is shallowest; or ... ?).
+Fig 5 - show that CDW isopycnals don't (or only rarely) outcrop (ideas: density as function of depth along the 1000m isobath; or find the transect where CDW is shallowest; or ... ?). - **Paul?**
 
 Place holder figure:
 
@@ -97,7 +97,7 @@ Explanation of temperature changes:
 Possibly include a figure of surface temperature changes here or in supplementary? Or not?
 
 ## Summary
-Fig 11 -  Schematic illustration draft:
+Fig 11 -  Schematic illustration draft: - **Adele**
 
 <img width="350" alt="easterly_schematic_cooling" src="https://user-images.githubusercontent.com/8506963/142951006-f18a6f70-be41-45bf-ade0-0ba9fe2769b2.jpg">   <img width="350" alt="northerly_schematic" src="https://user-images.githubusercontent.com/8506963/142952762-625fba66-c835-499c-9170-a9b8c2fc35ef.jpg">
 
