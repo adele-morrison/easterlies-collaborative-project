@@ -85,10 +85,8 @@ This figure is included here to more conclusively rule out hypothesis 2. This pl
 
 Fig 10 - Temperature changes - add in zonal and meridional simulations **Wilma and Paul**
 
-<img width="600" alt="figure-9" src="https://user-images.githubusercontent.com/15355753/141380759-244f6be0-9bd9-4586-a300-dc1a083c7b5e.png">
+![Fig9_Temp_anomaly](https://user-images.githubusercontent.com/15355753/144144271-07541c3b-d901-4240-88ae-db1442203cbb.png)
 
-Place holder for zonal/meridional perturbation temperature changes:
-<img width="800" alt="Screen Shot 2021-11-22 at 11 50 24 am" src="https://user-images.githubusercontent.com/8506963/142786214-4b1c0df6-a522-49fb-80a0-dff9e69bda1a.png">
 
 Explanation of temperature changes: 
 - Warming occurs in UP at or downstream of DSW formation sites due to enhanced upward heat transport that occurs when lower overturning cell increases. We hypothesise this will come from the meridional component.
