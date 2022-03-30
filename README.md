@@ -25,11 +25,11 @@ Fortnightly on Thursday mornings:
 
   * ~~9:00am-11:30am, Thursday 12th August (convenor: Julia)~~
 
-  * <del>9:00am-11:30am, Thursday 26th August (convenor: Matt)
+  * ~~9:00am-11:30am, Thursday 26th August (convenor: Matt)~~
 
   * ~~9:00am-11:30am, Thursday 9th September (convenor: Andy)~~
   
-  * <del>9:00am-11:30am, Thursday 23rd September (convenor: Steve)
+  * ~~9:00am-11:30am, Thursday 23rd September (convenor: Steve)~~
   
   * ~~9:00am-11:30am, Thursday 7th October (convenor: Adele)~~
  
@@ -43,14 +43,20 @@ Fortnightly on Thursday mornings:
 
   * ~~9:00am-11:30am, Thursday 16th December (convenor: Matt)~~
 
- * 9:00am-11:30am, Thursday 3rd February (convenor: Adele)
+ * ~~9:00am-11:30am, Thursday 3rd February (convenor: Adele)~~
 
- * 9:00am-11:30am, Thursday 17th February (convenor: Wilma)
+ * ~~9:00am-11:30am, Thursday 17th February (convenor: Wilma)~~
  
- * Thursday 3rd March  - NO HACKATHON - OCEAN SCIENCES
+ * ~~Thursday 3rd March  - NO HACKATHON - OCEAN SCIENCES~~
 
- * 9:00am-11:30am, Thursday 17th March (convenor: Paul)
+ * ~~9:00am-11:30am, Thursday 17th March (convenor: Paul)~~
 
  * 9:00am-11:30am, Thursday 31st March (convenor: Julia)
+ 
+ * 9:00am-11:30am, Thursday 14th April (convenor: Andy)
+ 
+ * 9:00am-11:30am, Thursday 28th April (convenor: Matt)
+ 
+ * 9:00am-11:30am, Thursday 12th May (convenor: Adele)
 
   * etc.
