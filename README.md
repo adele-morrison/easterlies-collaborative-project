@@ -46,8 +46,6 @@ Fortnightly on Thursday mornings:
  * ~~9:00am-11:30am, Thursday 3rd February (convenor: Adele)~~
 
  * ~~9:00am-11:30am, Thursday 17th February (convenor: Wilma)~~
- 
- * ~~Thursday 3rd March  - NO HACKATHON - OCEAN SCIENCES~~
 
  * ~~9:00am-11:30am, Thursday 17th March (convenor: Paul)~~
 
