@@ -2,6 +2,8 @@
 
 A collaborative project to work on the ACCESS-OM2-01 Antarctic easterly perturbation simulations. This is a central repository where we can work on analysis scripts together, suggest new analysis directions, discuss figures etc.
 
+We made a [collaborative video](https://www.youtube.com/watch?v=DXSOQ1tKJlE) summarising our findings! Check it out!
+
 ## How it works
 All aspects of the project are tracked through issues. Create an issue to represent each small task. Issues will develop to include discussion of analysis methods and figures associated with each task.
 
